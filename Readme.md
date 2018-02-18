@@ -1,10 +1,10 @@
 Analysis of Realm mobile database for iOS with comparison to CoreData.
 
-### Tech talk
+## Tech talk
 
 [try? Realm.pdf](./try_Realm.pdf)
 
-### XCode project:
+## XCode project:
 
 Perfomance comparison Realm vs CoreData
 
